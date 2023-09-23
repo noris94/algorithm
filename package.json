@@ -1,0 +1,11 @@
+{
+  "name": "algorithm-exercise",
+  "version": "1.0.0",
+  "description": "String manipulation algorithm",
+  "main": "index.ts",
+  "scripts": {
+    "test": "tsc && node index.js"
+  },
+  "author": "Abraham Noris",
+  "license": "ISC"
+}
